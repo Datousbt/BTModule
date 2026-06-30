@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml:3:1-9:12
+INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml:3:1-9:12
+INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml:3:1-9:12
+INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml:3:1-9:12
+	package
+		INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml:4:5-63
+application
+ADDED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml:6:5-7:34
+INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml:6:5-7:34
+	android:extractNativeLibs
+		INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml:7:9-31
+uses-sdk
+INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/data/com.termux/files/home/BTModule/app/src/main/AndroidManifest.xml

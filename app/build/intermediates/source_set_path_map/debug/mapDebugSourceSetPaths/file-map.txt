@@ -1,0 +1,7 @@
+com.example.bthook.app-pngs-0 /data/data/com.termux/files/home/BTModule/app/build/generated/res/pngs/debug
+com.example.bthook.app-resValues-1 /data/data/com.termux/files/home/BTModule/app/build/generated/res/resValues/debug
+com.example.bthook.app-packageDebugResources-2 /data/data/com.termux/files/home/BTModule/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.bthook.app-packageDebugResources-3 /data/data/com.termux/files/home/BTModule/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.bthook.app-debug-4 /data/data/com.termux/files/home/BTModule/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.bthook.app-debug-5 /data/data/com.termux/files/home/BTModule/app/src/debug/res
+com.example.bthook.app-main-6 /data/data/com.termux/files/home/BTModule/app/src/main/res
