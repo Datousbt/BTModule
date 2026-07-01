@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.datousbt.btautomation.app-mergeDebugResources-30:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/.gradle/caches/8.10/transforms/ca41d54a83fa0788d9fc27f89e30931c/transformed/appcompat-1.7.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
