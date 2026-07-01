@@ -1,3 +1,6 @@
-minApiVersion=101
-targetApiVersion=101
-staticScope=false
+id=com.datousbt.btautomation
+name=迪+
+version=1.0
+versionCode=1
+author=Datousbt
+description=Bluetooth Automation

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:padding="16dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/name"
+            android:hint="设备名称"/>
+
+        <EditText
+            android:id="@+id/mac"
+            android:hint="蓝牙MAC"/>
+
+        <EditText
+            android:id="@+id/connect"
+            android:hint="连接时执行"/>
+
+        <EditText
+            android:id="@+id/disconnect"
+            android:hint="断开时执行"/>
+
+        <Button
+            android:id="@+id/save"
+            android:text="保存"/>
+
+    </LinearLayout>
+
+</ScrollView>
